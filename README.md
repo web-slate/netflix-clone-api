@@ -1,2 +1,5 @@
-# netflix-clone-api
-Netflix Clone API Repo
+<div align="right">
+    <b><a href="https://github.com/web-slate/netflix-clone-hub/">↥ Back to Netflix Clone Hub</a></b>
+</div>
+
+# Netflix Clone API Repo
